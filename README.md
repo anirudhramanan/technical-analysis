@@ -9,7 +9,7 @@ Python library for different technical indicators
 * Simple Moving Average
 * Exponential Moving Average
 * Moving Average Convergence Divergence
-* Linear Regression
+* Linear Regression Channels
 
 ### Volatility Indicators
 * Average True Range
